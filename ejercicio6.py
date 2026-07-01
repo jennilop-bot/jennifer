@@ -1,0 +1,5 @@
+# Ejercicio 6 suma de nmeros 
+suma = 0
+for i in range(1, 11):
+    suma += i
+print("Suma de los primeros 10 números:", suma)
